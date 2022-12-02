@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.bg {
+  background-color: #07080c;
+  background-size: cover;
+  height: 100vh;
+  font-family: Roboto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: #ffffff;
+  font-size: 40px;
+  font-style: italic;
+}
+
+.image {
+  height: 50vh;
+  width: 50vw;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 28px;
+}
+
+.btn {
+  height: 40px;
+  border-radius: 8px;
+  margin: 10px;
+}
