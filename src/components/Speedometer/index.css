@@ -26,8 +26,25 @@
   font-size: 28px;
 }
 
+.para {
+  color: #94a3b8;
+}
+
 .btn {
   height: 40px;
-  border-radius: 8px;
-  margin: 10px;
+  color: #ffffff;
+  border-radius: 10px;
+  font-weight: 500;
+  margin-right: 10px;
+}
+
+.btn1 {
+  background-color: #0b69ff;
+}
+
+.btn2 {
+  background-color: transparent;
+  border-color: #cbd5e1;
+  color: #94a3b8;
+  border-style: solid;
 }

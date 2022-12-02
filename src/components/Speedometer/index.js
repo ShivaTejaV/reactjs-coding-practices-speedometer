@@ -15,10 +15,14 @@ class Speedometer extends Component {
         <h1 className="heading">
           Speed is <span>0</span>mph
         </h1>
-
+        <p className="para">Min Limit is 0mph,Max Limit is 200mph</p>
         <div>
-          <button className="btn btn-1">Accelretae</button>
-          <button className="btn btn-2">Apply Brake</button>
+          <button className="btn btn1" type="button">
+            Accelretae
+          </button>
+          <button className="btn btn2" type="button">
+            Apply Brake
+          </button>
         </div>
       </div>
     )
